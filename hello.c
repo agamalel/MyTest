@@ -5,5 +5,5 @@ void main ()
 
 	printf("Hello C and Git \n");
 	printf("Ahmed");
-	printf ("YYYYYYYYY");
+	printf ("TTTTTTTTT");
 }
